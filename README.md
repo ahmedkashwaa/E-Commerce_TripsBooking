@@ -29,6 +29,10 @@ Trip details
 
 ![6](https://user-images.githubusercontent.com/76598011/187875101-84657713-e5e2-4302-8044-e812b26878aa.png)
 ![7](https://user-images.githubusercontent.com/76598011/187875106-8cf3ad62-bb2d-41bf-9f55-99d160f7d799.png)
+
+
+Details required to book trip
+
 ![8](https://user-images.githubusercontent.com/76598011/187875108-051d4157-2073-4a59-b1eb-60b7e1ba6434.png)
 ![9](https://user-images.githubusercontent.com/76598011/187875110-03c4ddd6-0313-4efd-8993-3495791640bd.png)
 ![10](https://user-images.githubusercontent.com/76598011/187875112-31e36039-e245-4e10-ab0c-a1346ad9214b.png)
