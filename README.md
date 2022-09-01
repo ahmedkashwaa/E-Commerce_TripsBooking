@@ -17,9 +17,12 @@ Offers
 
 ![3](https://user-images.githubusercontent.com/76598011/187875094-b09f8880-4970-4c9e-b1cb-eb8127da768f.png)
 ![4](https://user-images.githubusercontent.com/76598011/187875097-29d80d81-78f6-47e9-b902-890cb99ec1e9.png)
+
+
 Floating button with contact info
 
 ![5](https://user-images.githubusercontent.com/76598011/187875099-9cd81921-7ecb-4a84-920b-a11021a74e4f.png)
+
 
 
 Trip details
