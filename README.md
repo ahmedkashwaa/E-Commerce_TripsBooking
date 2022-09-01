@@ -36,4 +36,8 @@ Details required to book trip
 ![8](https://user-images.githubusercontent.com/76598011/187875108-051d4157-2073-4a59-b1eb-60b7e1ba6434.png)
 ![9](https://user-images.githubusercontent.com/76598011/187875110-03c4ddd6-0313-4efd-8993-3495791640bd.png)
 ![10](https://user-images.githubusercontent.com/76598011/187875112-31e36039-e245-4e10-ab0c-a1346ad9214b.png)
+
+
+the Admin Application (Add trip Screen )
+
 ![11](https://user-images.githubusercontent.com/76598011/187875114-78a1f016-5578-4be4-9889-010a55309c19.png)
